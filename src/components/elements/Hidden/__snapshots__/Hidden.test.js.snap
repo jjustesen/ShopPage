@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RstHidden deve renderizar e ser compativel com a versao anterior 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-gzVnrw dPmAXc"
+  >
+    <div />
+  </div>
+  <div
+    class="sc-dnqmqq sc-fjdhpX bcEbaQ"
+  >
+    Sponte
+  </div>
+</DocumentFragment>
+`;

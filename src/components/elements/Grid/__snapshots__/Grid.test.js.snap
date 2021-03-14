@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RstRow and RstCol deve renderizar e ser compativel com a versao anterior 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-gzVnrw dPmAXc"
+  >
+    <div />
+  </div>
+  <div
+    class="sc-dnqmqq sc-gZMcBi sc-gqjmRU ecAJdE"
+    display="flex"
+  >
+    <div
+      class="sc-dnqmqq sc-VigVT kBNxyI"
+      width="1"
+    >
+      Sponte
+    </div>
+  </div>
+</DocumentFragment>
+`;
